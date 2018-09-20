@@ -195,6 +195,7 @@ header ul li{
 #skill .container .skillbox ul li{
   list-style-type: disc;
   color: var(--gray);
+  font-size: 24px;
 }
 
 #skill .container .skillbox .header {
