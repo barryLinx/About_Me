@@ -13,16 +13,14 @@
   <title>Document</title>
 </head>
 <body>
-
-
-
  
   <div id="wwrap" class="wrap">
     
       <div class="sidenav">
-          <a href="#Skill">Skill</a>
+          <a href="#Contact">Contact</a>
+          <a href="#skill">Skill</a>
           <a href="#About">About</a>
-          <a href="#Work">Work</a>
+          <a href="#work">Work</a>
       </div>
         <!-- <ul class="sidenav" >
           <li> <a href="#Skill">Skill</a></li>  
@@ -30,7 +28,7 @@
           <li><a href="#Work">Work</a></li>
         </ul>  -->
      
-  <header>
+  <header id="Contact">
     <div class="person">
       <div class="img"></div>
       <p class="name">XXX</p>     
@@ -75,7 +73,10 @@
         </div>
         <ul>
           <li>Vue.js</li>
-          <li>AJAX/JAON</li>
+          <li>Vue CLI</li>
+          <li> Vue Router</li>
+          <li>Vuex</li>        
+          <li>JavaScript</li>
         </ul>
       </div>
       <div class="skillbox skillbox-d">
@@ -92,10 +93,10 @@
     </div>
   </section>
 
-  <section id="experience">
+  <!-- <section id="experience">
     <h3>經歷</h3>
 
-  </section>
+  </section> -->
 
   <section id="work">
     <h3>Work 作品</h3>
@@ -207,13 +208,24 @@
     </div>
   </section>
 
-  <section class="About">
-    <div class="photo">
+  <section id="About">
+      <h3>About
+          
+      </h3>
+      
+   
+    <div class="text"> 
+     
+           <p>  
+         
+            排版&操作的方便性
+            ，才能引導使用著逐步看見資料。
+        
+           </p>
+       
+       
+      
     </div>
-    <p>
-      覺得前端開發真是有趣
-
-    </p>
 
 
   </section>
@@ -222,5 +234,18 @@
     Copyright &copy; 2018 Bluce
   </footer>
 </div>
+
+<!-- Tabslet v1.7.3 -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tabslet.js/1.7.3/jquery.tabslet.min.js"></script>
+
+
+<script>
+ 
+ $( document ).ready(function() {
+  $( "#wwrap" ).tabslet();
+});
+  
+</script>
 </body>
 </html>

@@ -73,7 +73,12 @@ body{
 
 .sidenav a:nth-child(3){
   top: 140px;
-  background-color: #555
+  background-color: #8700ff;
+}
+
+.sidenav a:nth-child(4){
+  top: 200px;
+  background-color: #ffae00;
 }
 
 .sidenav a:hover {
@@ -317,6 +322,48 @@ header ul li{
   width: 100px;
   border-radius: 9px;
  
+}
+
+/* About */
+
+#About{
+  display: grid;
+  grid-template-columns: auto;
+  
+  
+  grid-gap: 10px;
+  margin-bottom: 30px;
+}
+
+#About h3{
+  text-align: center;
+  margin: 20px 0;
+  font-size: 36px;
+  color: var(--blue);
+}
+
+
+#About .photo{
+   grid-area: photo;
+   width: 100%;
+   bottom: 0;
+}
+
+#About .text{
+  justify-self: center;
+ 
+}
+
+#About .text ul{
+  list-style-type: disc;
+}
+
+#About .text p{
+  font-size: 18px;
+  line-height: 1.8;
+  font-weight:650;
+  padding: 60px;
+  color: #5b5a5a;
 }
 
 
