@@ -59,7 +59,7 @@
   ⌞ BootStrap 4.0
 
 
- - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 個人網頁 </B></a> <BR>
+ - <a href="https://barrylinx.github.io/About_Me/personal.html" target="_blank"><B> 個人網頁 </B></a> <BR>
   ⌞ <a href="https://hexschool.github.io/HTML_sketch_export/index.html"  target="_blank">
       六角學院課程提供設計圖
   </a>  <BR>
