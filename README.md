@@ -23,6 +23,11 @@
 ### 任務管理工具
 * gulp 
 
+### Git版控
+* branch  - 查看分支
+* branch [name]] - 新增 分支
+* merge -合併分支 
+* checkout -切換支線
 
 ## 作品集 
 - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊API </B> </a> <BR>
