@@ -28,6 +28,9 @@
 * branch [name]] - 新增 分支
 * merge -合併分支 
 * checkout -切換支線
+* checkout [4碼] -切換支線  commit 4ea83363204f18e35c236c177b62f2f85f610b4e
+* HEAD -指標 標頭
+
 
 ## 作品集 
 - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊API </B> </a> <BR>
