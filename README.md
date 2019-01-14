@@ -24,9 +24,9 @@
 ### 任務管理工具
 
 * Gulp 
- ⌞  babel 轉換ES5 => ES6 或以上 
- ⌞  uglify(壓縮JS)
- ⌞  clean-css(壓縮CSS) 
+ ⌞  babel 轉換ES5 => ES6 或以上 <BR>
+ ⌞  uglify(壓縮JS) <BR>
+ ⌞  clean-css(壓縮CSS)  
  ⌞  concat(合併多個Js)    
 
 ### 版控
