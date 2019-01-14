@@ -28,13 +28,8 @@
  ⌞  clean-css(壓縮CSS) 
  ⌞  concat(合併多個Js)    
 
-### Git版控
-* branch  - 查看分支
-* branch [name]] - 新增 分支
-* merge -合併分支 
-* checkout -切換支線
-* checkout [4碼] -切換支線  commit 4ea83363204f18e35c236c177b62f2f85f610b4e
-* HEAD -指標 標頭
+### 版控
+*  Git 
 
 
 ## 作品集 
@@ -66,22 +61,22 @@
   ⌞ 使用 vue-loading-overlay 過場動畫  <BR>
 
  - <a href="https://barrylinx.github.io/bootstarp4Dashboard/restrant.html#" target="_blank"><B> 六角西餐廳版型 </B> </a> <BR> 
-  ⌞ 使用BootStrap4.0 排版
-  ⌞ 六角課程提供設計圖
+  ⌞ 使用BootStrap4.0 排版  <BR>
+  ⌞ 六角課程提供設計圖   <BR>
 
 - <a href="https://barrylinx.github.io/bootstarp4Dashboard/Dashboard_relay.html#" target="_blank"><B>商務後台版型  </B> </a> <BR> 
-  ⌞ 使用BootStrap4.0 排版
-  ⌞ 六角課程提供設計圖
+  ⌞ 使用BootStrap4.0 排版  <BR>
+  ⌞ 六角課程提供設計圖  <BR>
 
  - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
   ⌞ vuejs <BR>
   ⌞ BootStrap 4.0
 
 - <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">六角甜點電商版型</a>  
-  ⌞使用 Nuxt.js 2.0.0 開發 
-  ⌞使用 vee- validate 做驗證
-  ⌞localStorage 模擬CRUD
-  ⌞nuxtjs/toast'做提示
+  ⌞使用 Nuxt.js 2.0.0 開發  <BR>
+  ⌞使用 vee- validate 做驗證  <BR>
+  ⌞localStorage 模擬CRUD  <BR>
+  ⌞nuxtjs/toast'做提示  <BR>
 
 
 
