@@ -19,6 +19,7 @@
 ### JS Framework:
 
 * Vue.js 2x
+* Vue/ Nuxt.js 2.0.0
 
 ### 任務管理工具
 
