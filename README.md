@@ -65,7 +65,7 @@
   ⌞ 使用BootStrap4.0 排版  <BR>
   ⌞ 六角課程提供設計圖   <BR>
 
-- <a href="https://barrylinx.github.io/bootstarp4Dashboard/Dashboard_relay.html#" target="_blank"><B>商務後台版型  </B> </a> <BR> 
+- <a href="https://barrylinx.github.io/bootstarp4Dashboard/DashBoard_relay.html#" target="_blank"><B>商務後台版型  </B> </a> <BR> 
   ⌞ 使用BootStrap4.0 排版  <BR>
   ⌞ 六角課程提供設計圖  <BR>
 
