@@ -14,7 +14,7 @@
 
 
 ### CSS Framework:
-* Bootstrap 4.0 
+* Bootstrap 4.x
 
 ### JS Framework:
 
@@ -71,9 +71,15 @@
 
  - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
   ⌞ vuejs <BR>
-  ⌞ BootStrap 4.0
+  ⌞ BootStrap 4.0 
 
-- <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">六角甜點電商版型</a>  
+  - <a href=" https://barrylinx.github.io/NuxtJs_Sweet/dist/index.html">六角甜點電商版型</a>  
+  ⌞六角學院T2E提供設計圖  <BR>
+  ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
+  ⌞localStorage 模擬CRUD  <BR>
+  ⌞使用gulp 做 Scss preprocessing  <BR>
+
+- <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>  
   ⌞使用 Nuxt.js 2.0.0 開發  <BR>
   ⌞使用 vee- validate 做驗證  <BR>
   ⌞localStorage 模擬CRUD  <BR>
