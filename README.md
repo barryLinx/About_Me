@@ -43,7 +43,7 @@
   ⌞ 使用 CSS 設計版面 <BR>
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
 
- - <a href="https://barrylinx.github.io/hexschool_homework_CSSHtml/CSSPsd.html" target="_blank"><B>六角學院HTML,css作業 </B> </a> <BR> 
+ - <a href="https://barrylinx.github.io/hexschool_homework_CSSHtml/CSSPsd.html" target="_blank"><B>HTML,css練習 </B> </a> <BR> 
   ⌞ HTML <BR>
   ⌞ CSS float 排版
 
@@ -61,7 +61,7 @@
   ⌞ 使用 vue-router 做路徑切換  <BR>
   ⌞ 使用 vue-loading-overlay 過場動畫  <BR>
 
- - <a href="https://barrylinx.github.io/bootstarp4Dashboard/restrant.html#" target="_blank"><B> 六角西餐廳版型 </B> </a> <BR> 
+ - <a href="https://barrylinx.github.io/bootstarp4Dashboard/restrant.html#" target="_blank"><B> 西餐廳版型 </B> </a> <BR> 
   ⌞ 使用BootStrap4.0 排版  <BR>
   ⌞ 線上課程提供設計圖   <BR>
 
