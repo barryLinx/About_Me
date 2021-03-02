@@ -25,12 +25,6 @@
 *  Git 知道一點
 
 
-## 作品集 
-- <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊API </B> </a> <BR>
-  ⌞ 使用 Vuejs CDN 做資料動態管理  <BR>
-  ⌞ 使用政府開放平台抓取 JSON 資料。<BR>
-  
-
 - <a href="https://barrylinx.github.io/T2EWeek/week2/T2EWeek2.html" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
   ⌞ 使用 CSS 設計版面 <BR>
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
