@@ -29,9 +29,6 @@
   ⌞ 使用 CSS 設計版面 <BR>
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
 
- - <a href="https://barrylinx.github.io/hexschool_homework_CSSHtml/CSSPsd.html" target="_blank"><B>HTML,css練習 </B> </a> <BR> 
-  ⌞ HTML <BR>
-  ⌞ CSS float 排版
 
 - <a href= "https://barrylinx.github.io/Vue-PM25-homeWork/" target="_blank"><B> AQI空氣品質 </B> (RWD)</a> <BR>
   ⌞ 使用 Vuejs CDN 做資料動態管理  <BR>
