@@ -30,7 +30,7 @@
  ⌞  concat(合併多個Js)    
 
 ### 版控
-*  Git 
+*  Git 知道一點
 
 
 ## 作品集 
@@ -54,7 +54,7 @@
 
 - <a href="https://barrylinx.github.io/vue-tryShopping/dist/#/" target="_blank"><B> 前端電商網 </B> </a> <BR>
   ⌞ 使用 Vuejs Cli 2.0 開發環境  <BR>
-  ⌞ 使用六角學院提供 後端API <BR>
+  ⌞ 使用線上課程提供 後端API <BR>
   ⌞ 使用BootStrap4.0 做排版  <BR>
   ⌞ 使用 vee- validate 做送出驗證  <BR>
   ⌞ 使用 vuex 做資料狀態管理  <BR>
@@ -63,18 +63,18 @@
 
  - <a href="https://barrylinx.github.io/bootstarp4Dashboard/restrant.html#" target="_blank"><B> 六角西餐廳版型 </B> </a> <BR> 
   ⌞ 使用BootStrap4.0 排版  <BR>
-  ⌞ 六角課程提供設計圖   <BR>
+  ⌞ 線上課程提供設計圖   <BR>
 
 - <a href="https://barrylinx.github.io/bootstarp4Dashboard/DashBoard_relay.html#" target="_blank"><B>商務後台版型  </B> </a> <BR> 
   ⌞ 使用BootStrap4.0 排版  <BR>
-  ⌞ 六角課程提供設計圖  <BR>
+  ⌞ 線上課程提供設計圖  <BR>
 
  - <a href="https://barrylinx.github.io/Demo/" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
   ⌞ vuejs <BR>
   ⌞ BootStrap 4.0 
 
   - <a href=" https://barrylinx.github.io/NuxtJs_Sweet/dist/index.html">六角甜點電商版型</a>  
-  ⌞六角學院T2E提供設計圖  <BR>
+  ⌞線上課程T2E提供設計圖  <BR>
   ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞使用gulp 做 Scss preprocessing  <BR>
