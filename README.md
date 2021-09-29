@@ -30,7 +30,7 @@
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
 
 
-- <a href= "https://barrylinx.github.io/Vue-PM25-homeWork/" target="_blank"><B> AQI空氣品質 </B> (RWD)</a> <BR>
+- <a href= "https://github.com/barryLinx/Vue-PM25-homeWork" target="_blank"><B> AQI空氣品質 </B> (RWD)</a> <BR>
   ⌞ 使用 Vuejs CDN 做資料動態管理  <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料。<BR>
   ⌞ 使用 BootStrap4.0 簡易排版
