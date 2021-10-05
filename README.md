@@ -20,6 +20,8 @@
 
 * Vue.js 2x
 * Vue/ Nuxt.js 2.0.0
+### 打包工具
+webpack5 懂一點
 
 ### 版控
 *  Git 知道一點
