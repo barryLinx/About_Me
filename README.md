@@ -63,6 +63,7 @@ webpack5 懂一點
   ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞使用gulp 做 Scss preprocessing  <BR>
+  ⌞Animate.css , aos.js 製作效果
 
 - <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>  
   ⌞使用 Nuxt.js 2.0.0 開發  <BR>
