@@ -58,7 +58,7 @@ webpack5 懂一點
   ⌞ vuejs <BR>
   ⌞ BootStrap 4.0 
 
-  - <a href="https://barrylinx.github.io/NuxtJs_Sweet/dist/index.html">甜點電商版型</a>  
+  - <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">甜點電商版型</a>  
   ⌞線上課程T2E提供設計圖  <BR>
   ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
   ⌞localStorage 模擬CRUD  <BR>
