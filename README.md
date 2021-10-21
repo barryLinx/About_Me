@@ -70,7 +70,10 @@ webpack5 懂一點
   ⌞使用 vee- validate 做驗證  <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞nuxtjs/toast'做提示  <BR>
-
-
+  - <a href="https://github.com/barryLinx/ToDolLst_F2e" /> TodoList</a>
+  ⌞ vanilla js 
+  ⌞ 引用 BootStarp5 Grid System,部分元件
+  ⌞ webpack 5 bundle
+  ⌞ [設計稿](https://bit.ly/2HfaR2M)
 
   
