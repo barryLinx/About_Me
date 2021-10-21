@@ -58,23 +58,23 @@ webpack5 懂一點
   ⌞ vuejs <BR>
   ⌞ BootStrap 4.0 
 
-  - <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">甜點電商版型</a>  
+ - <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">甜點電商版型</a>  
   ⌞線上課程T2E提供設計圖  <BR>
   ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞使用gulp 做 Scss preprocessing  <BR>
   ⌞Animate.css , aos.js 製作效果
 
-- <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>  
+- <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>   <BR>
   ⌞使用 Nuxt.js 2.0.0 開發  <BR>
   ⌞使用 vee- validate 做驗證  <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞nuxtjs/toast'做提示  <BR>
   
-- <a href="https://github.com/barryLinx/ToDolLst_F2e" /> TodoList</a>
-  ⌞ vanilla js 
-  ⌞ 引用 BootStarp5 Grid System,部分元件
-  ⌞ webpack 5 bundle
-  ⌞ [設計稿](https://bit.ly/2HfaR2M)
+- <a href="https://github.com/barryLinx/ToDolLst_F2e" /> TodoList</a>  <BR>
+  ⌞ vanilla js   <BR> 
+  ⌞ 引用 BootStarp5 Grid System,部分元件  <BR>
+  ⌞ webpack 5 bundle  <BR>
+  ⌞ [設計稿](https://bit.ly/2HfaR2M)  <BR>
 
   
