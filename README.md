@@ -1,7 +1,7 @@
 # Bluce Lin
 
 - Location: xxxx City
-- E-mail: xxxx@gmail.com
+- E-mail: bblin9521@gmail.com
 - Mobile: 09xx-xxx-xxx
 
 ## Skills
@@ -9,22 +9,21 @@
 ### Basic Skill
 
 * HTML
-* CSS/Grid Layout、Flexbox 
+* CSS - Flexbox切版 
 * JavaScript 
 
 
 ### CSS Framework:
-* Bootstrap 4.x
+* Bootstrap 4.x , 5.x
 
 ### JS Framework:
+* Vue.js 2.6
 
-* Vue.js 2x
-* Vue/ Nuxt.js 2.0.0
 ### 打包工具
-webpack5 懂一點
+webpack - v5
 
 ### 版控
-*  Git 知道一點
+*  Git - 多人合作不熟
 
 
 - <a href="https://barrylinx.github.io/T2EWeek/week2/T2EWeek2.html" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
@@ -32,10 +31,16 @@ webpack5 懂一點
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
 
 
-- <a href= "https://github.com/barryLinx/Vue-PM25-homeWork" target="_blank"><B> AQI空氣品質 </B> (RWD)</a> <BR>
+- <a href= "https://github.com/barryLinx/Vue-PM25-homeWork" target="_blank"><B> Vue - AQI 空氣品質 </B> (RWD)</a> <BR>
   ⌞ 使用 Vuejs CDN 做資料動態管理  <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料。<BR>
-  ⌞ 使用 BootStrap4.0 簡易排版
+  ⌞ 使用 BootStrap 4.0 簡易排版
+  
+- <a href= "https://barrylinx.github.io/VanillaJS_PMAQI/dist/main.html" target="_blank"><B>JS - AQI 空氣品質 </B> (RWD)</a> <BR>
+   ⌞ webpack v5
+   ⌞ BootStrap v5 排版
+   ⌞ JavaScript 練習撰寫
+   ⌞ Promise 、 XMLHttpRequest 接 環保局 API
 
 - <a href="https://barrylinx.github.io/vue-tryShopping/dist/#/" target="_blank"><B> 前端電商網 </B> </a> <BR>
   ⌞ 使用 Vuejs Cli 2.0 開發環境  <BR>
