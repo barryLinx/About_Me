@@ -8,22 +8,22 @@
 
 ### Basic Skill
 
-* HTML
-* CSS/Grid Layout、Flexbox 
-* JavaScript 
+- HTML
+- CSS/Grid Layout、Flexbox
+- JavaScript
 
+### CSS Framework
 
-### CSS Framework:
-* Bootstrap 4.x
+- Bootstrap 4.x
 
-### JS Framework:
+### JS Framework
 
-* Vue.js 2x
-* Vue/ Nuxt.js 2.0.0
+- Vue.js 2x
+- Vue/ Nuxt.js 2.0.0
 
 ### 版控
-*  Git 知道一點
 
+- Git 知道一點
 
 - <a href="https://barrylinx.github.io/T2EWeek/week2/T2EWeek2.html" target="_blank"><B> 高雄市旅遊版型 </B> (RWD)</a> <BR>
   ⌞ 使用 CSS 設計版面 <BR>
@@ -68,6 +68,8 @@
   ⌞localStorage 模擬CRUD  <BR>
   ⌞nuxtjs/toast'做提示  <BR>
 
-
-
+- <a href="https://pos.zeabur.app">POS 點餐</a>
+  ⌞ 使用 solidjs 前端 <BR>
+  ⌞ 使用 fastify 後端 <BR>
+  ⌞ [solidjs_POS_system](https://github.com/barryLinx/solidjs_POS_system) <BR>
   
