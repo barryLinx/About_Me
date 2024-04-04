@@ -1,7 +1,7 @@
 # Bluce Lin
 
 - Location: xxxx City
-- E-mail: xxxx@gmail.com
+- E-mail: bblin9521@gmail.com
 - Mobile: 09xx-xxx-xxx
 
 ## Skills
@@ -20,8 +20,23 @@
 
 - Vue.js 2x
 - Vue/ Nuxt.js 2.0.0
+- Vue.js 2.6
 
 ### 版控
+
+- git
+
+## CSS Framework
+
+- Bootstrap 4.x , 5.x
+
+### 打包工具
+
+webpack - v5
+
+## 版控
+
+- Git - 多人合作不熟
 
 - Git 知道一點
 
@@ -30,10 +45,16 @@
   ⌞ 使用 grid layour flexbox 做 響應式網頁版型(RWD)
 
 
-- <a href= "https://barrylinx.github.io/Vue-PM25-homeWork/" target="_blank"><B> AQI空氣品質 </B> (RWD)</a> <BR>
+- <a href= "https://github.com/barryLinx/Vue-PM25-homeWork" target="_blank"><B> Vue - AQI 空氣品質 </B> (RWD)</a> <BR>
   ⌞ 使用 Vuejs CDN 做資料動態管理  <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料。<BR>
-  ⌞ 使用 BootStrap4.0 簡易排版
+  ⌞ 使用 BootStrap 4.0 簡易排版
+  
+- <a href= "https://barrylinx.github.io/VanillaJS_PMAQI/dist/main.html" target="_blank"><B>JS - AQI 空氣品質 </B> (RWD)</a> <BR>
+   ⌞ webpack v5
+   ⌞ BootStrap v5 排版
+   ⌞ JavaScript 練習撰寫
+   ⌞ Promise 、 XMLHttpRequest 接 環保局 API
 
 - <a href="https://barrylinx.github.io/vue-tryShopping/dist/#/" target="_blank"><B> 前端電商網 </B> </a> <BR>
   ⌞ 使用 Vuejs Cli 2.0 開發環境  <BR>
@@ -56,13 +77,14 @@
   ⌞ vuejs <BR>
   ⌞ BootStrap 4.0 
 
-  - <a href="https://barrylinx.github.io/NuxtJs_Sweet/dist/index.html">甜點電商版型</a>  
+ - <a href="https://barrylinx.github.io/T2E_Sweet/public/sweet.html">甜點電商版型</a>  
   ⌞線上課程T2E提供設計圖  <BR>
   ⌞使用 CSS /Flexbox /GridLayout 切版 RWD   <BR>
   ⌞localStorage 模擬CRUD  <BR>
   ⌞使用gulp 做 Scss preprocessing  <BR>
+  ⌞Animate.css , aos.js 製作效果
 
-- <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>  
+- <a href="https://barrylinx.github.io/Text_Nuxt_sweet/">Nuxt甜點電商</a>   <BR>
   ⌞使用 Nuxt.js 2.0.0 開發  <BR>
   ⌞使用 vee- validate 做驗證  <BR>
   ⌞localStorage 模擬CRUD  <BR>
@@ -72,4 +94,12 @@
   ⌞ 使用 solidjs 前端 <BR>
   ⌞ 使用 fastify 後端 <BR>
   ⌞ [solidjs_POS_system](https://github.com/barryLinx/solidjs_POS_system) <BR>
+  
+  
+- <a href="https://github.com/barryLinx/ToDolLst_F2e" /> TodoList</a>  <BR>
+  ⌞ vanilla js   <BR> 
+  ⌞ 引用 BootStarp5 Grid System,部分元件  <BR>
+  ⌞ webpack 5 bundle  <BR>
+  ⌞ [設計稿](https://bit.ly/2HfaR2M)  <BR>
+
   
