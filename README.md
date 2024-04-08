@@ -90,7 +90,7 @@ webpack - v5
   ⌞localStorage 模擬CRUD  <BR>
   ⌞nuxtjs/toast'做提示  <BR>
 
-- <a href="https://pos.zeabur.app">POS 點餐</a>
+- <a href="https://pos.zeabur.app">POS 點餐</a> <BR>
   ⌞ 使用 solidjs 前端 <BR>
   ⌞ 使用 fastify 後端 <BR>
   ⌞ [solidjs_POS_system](https://github.com/barryLinx/solidjs_POS_system) <BR>
