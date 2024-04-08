@@ -103,8 +103,8 @@ webpack - v5
   ⌞ [設計稿](https://bit.ly/2HfaR2M)  <BR>
   
 - <a href="https://barrylinx.github.io/vueToDo/dist/main.html" /> Vue_TodoList</a>  <BR>
-  ⌞ Vue3 -Options API 資料操作
-  ⌞ drag drop 刪除功能
-  ⌞ 不使用Vue-Cli 建置，使用WebPack5 建置
-  ⌞ 引用 BootStarp5-Grid System , 部分元件
+  ⌞ Vue3 -Options API 資料操作 <BR>
+  ⌞ drag drop 刪除功能 <BR>
+  ⌞ 不使用Vue-Cli 建置，使用WebPack5 建置 <BR>
+  ⌞ 引用 BootStarp5-Grid System , 部分元件 <BR>
   
